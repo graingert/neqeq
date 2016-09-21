@@ -1,0 +1,27 @@
+{
+  "name": "neqeq",
+  "version": "0.1.1",
+  "description": "Use == without lint errors",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/graingert/neqeq.git"
+  },
+  "keywords": [
+    "neqeq",
+    "eslint",
+    "!="
+  ],
+  "author": "Thomas Grainger",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/graingert/neqeq/issues"
+  },
+  "homepage": "https://github.com/graingert/neqeq#readme",
+  "dependencies": {
+    "eqeq": "^0.1.0"
+  }
+}
