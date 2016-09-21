@@ -1,7 +1,7 @@
 neqeq
 ====
 
-Use == without lint errors!
+Use != without lint errors!
 
 
 Install
